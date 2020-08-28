@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- Thanks for visiting. 
+Thanks for visiting! 
 

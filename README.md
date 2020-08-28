@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 # Welcome!
 
 ## I'm Rogério Barreto Martins - 💻 
+
+
+
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://https://github.com/rogeriodelphi/rogeriodelphi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-barreto-martins-48013772/)](https://www.linkedin.com/in/rog%C3%A9rio-barreto-martins-48013772/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogeriodelphi0@gmail.com)](mailto:rogeriodelphi0@gmail.com)
+
+- Thanks for visiting. 
+

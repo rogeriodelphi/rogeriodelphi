@@ -1,3 +1,10 @@
+<a align="center">
+   <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
+   
+![javaDeveloper](https://user-images.githubusercontent.com/47873379/91588875-33cc8e80-e92f-11ea-8db4-6ec362f7d571.png)
+</a>
+
+
 <!--
 **rogeriodelphi/rogeriodelphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

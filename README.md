@@ -1,8 +1,3 @@
-<a align="center">
-![Barreto](https://user-images.githubusercontent.com/rogeriodelphi/python-developer-1200x500_color.png)
-</a>
-
-
 <!--
 **rogeriodelphi/rogeriodelphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

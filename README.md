@@ -39,5 +39,19 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
+## :octocat: Github status:
+<br/>
+
+
+<p >
+
+  
+   <img  src="https://badges.pufler.dev/repos/rogeriodelphi" alt=""  /> 
+   <img  src="https://badges.pufler.dev/years/rogeriodelphi" alt="" />
+   <img  src="https://komarev.com/ghpvc/?username=rogeriodelphi&color=green" alt="" />
+   
+</p>
+
 Thanks for visiting! 
 

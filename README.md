@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rogeriodelphi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-barreto-martins-48013772/)](https://www.linkedin.com/in/rog%C3%A9rio-barreto-martins-48013772/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rbmdesenvolvim2)](https://twitter.com/rbmdesenvolvim2)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/?gl=BR&tab=v1)](https://www.youtube.com/?gl=BR&tab=v1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogeriodelphi0@gmail.com)](mailto:rogeriodelphi0@gmail.com)
-
 <br>
 
 ### Languages and Tools:

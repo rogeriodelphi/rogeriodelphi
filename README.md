@@ -60,4 +60,4 @@ Here are some ideas to get you started:
    <summary>📊 Github Stats</summary>
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rogeriodelphi&show_icons=true&theme=gotham" alt="Rogério Barreto | Stats" />
 </details>
-[github-readme-stats](https://github.com/rogeriodelphi/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

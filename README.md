@@ -53,3 +53,10 @@ Here are some ideas to get you started:
    <img  src="https://badges.pufler.dev/years/rogeriodelphi" alt="" />
    <img  src="https://komarev.com/ghpvc/?username=rogeriodelphi&color=green" alt="" />
 </p>
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rogeriodelphi&show_icons=true&theme=gotham" alt="Rogério Barreto | Stats" />
+
+</details>

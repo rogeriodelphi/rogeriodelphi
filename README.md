@@ -60,4 +60,4 @@ Here are some ideas to get you started:
    <summary>📊 Github Stats</summary>
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rogeriodelphi&show_icons=true&theme=gotham" alt="Rogério Barreto | Stats" />
 </details>
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/rogeriodelphi/github-readme-stats)*
+[github-readme-stats](https://github.com/rogeriodelphi/github-readme-stats)

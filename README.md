@@ -60,6 +60,11 @@ Here are some ideas to get you started:
       <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
       <br>Vue
     </td>
+    td align="center">
+      <img alt="delphi" height=64px src="https://worldvectorlogo.com/logo/delphi-4">
+      <br>Delphi
+    </td>
+    
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
@@ -79,8 +84,8 @@ Here are some ideas to get you started:
       <br>AWS
     </td>
     <td align="center">
-      <img alt="heroku" height=64px src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg">
-      <br>AWS
+      <img alt="heroku" height=64px src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg">
+      <br>Heroku
     </td>
   </tr>
   <tr>

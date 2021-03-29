@@ -74,6 +74,14 @@ Here are some ideas to get you started:
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
+    <td align="center">
+      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
+      <br>AWS
+    </td>
+    <td align="center">
+      <img alt="heroku" height=64px src="https://cdn.worldvectorlogo.com/logos/heroku-logo.svg">
+      <br>AWS
+    </td>
   </tr>
   <tr>
     <td align="center">

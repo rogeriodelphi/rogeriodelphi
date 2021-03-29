@@ -63,7 +63,28 @@ Here are some ideas to get you started:
     <td align="center">
       <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
       <br>PyCharm
-    </td>    
+    </td>
+    <td align="center">
+      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+      <br>Nginx
+    </td>
+    <td align="center">
+      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
+      <br>Ubuntu
+    </td>
+    </td>
+    <td align="center">
+      <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <br>HTML5
+    </td>
+    <td align="center">
+      <img alt="ccs3" height=64px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+      <br>CSS3
+    </td>
+    <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <br>Bootstrap
+    </td>     
   </tr>
   <tr>
     <td align="center">
@@ -102,29 +123,6 @@ Here are some ideas to get you started:
       <img alt="jupyter" height=64px src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
       <br>Jupyter
     </td>  
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
-      <br>Nginx
-    </td>
-    <td align="center">
-      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
-      <br>Ubuntu
-    </td>
-    </td>
-    <td align="center">
-      <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-      <br>HTML5
-    </td>
-    <td align="center">
-      <img alt="ccs3" height=64px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-      <br>CSS3
-    </td>
-    <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <br>Bootstrap
-    </td>    
   </tr>
 </table>
 

@@ -75,7 +75,7 @@ Here are some ideas to get you started:
       <br>MySQL
     </td>
     <td align="center">
-      <img alt="digitalocean" height=64px src="https://worldvectorlogo.com/pt/logos/digitalocean-logo.svg">
+      <img alt="digitalocean" height=64px src="https://cdn.worldvectorlogo.com/logos/digitalocean.svg">
       <br>DigitalOcean
     </td>    
     <td align="center">
@@ -109,10 +109,6 @@ Here are some ideas to get you started:
       <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
       <br>Ubuntu
     </td>
-    </td>
-    <td align="center">
-      <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-      <br>Flutter
     </td>
     <td align="center">
       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">

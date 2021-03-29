@@ -61,10 +61,6 @@ Here are some ideas to get you started:
       <br>Vue
     </td>
     <td align="center">
-      <img alt="delphi" height=64px src="https://worldvectorlogo.com/logos/delphi-4.svg">
-      <br>Delphi
-    </td>
-    <td align="center">
       <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
       <br>PyCharm
     </td>    

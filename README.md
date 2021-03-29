@@ -61,9 +61,13 @@ Here are some ideas to get you started:
       <br>Vue
     </td>
     <td align="center">
-      <img alt="delphi" height=64px src="https://worldvectorlogo.com/logo/delphi-4.svg">
+      <img alt="delphi" height=64px src="https://worldvectorlogo.com/logo/delphi-3.svg">
       <br>Delphi
     </td>
+    <td align="center">
+      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <br>PyCharm
+    </td>    
   </tr>
   <tr>
     <td align="center">
@@ -108,10 +112,6 @@ Here are some ideas to get you started:
     <td align="center">
       <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
       <br>Ubuntu
-    </td>
-    <td align="center">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-      <br>PyCharm
     </td>
     </td>
     <td align="center">

@@ -61,7 +61,7 @@ Here are some ideas to get you started:
       <br>Vue
     </td>
     <td align="center">
-      <img alt="delphi" height=64px src="https://worldvectorlogo.com/logo/delphi-3.svg">
+      <img alt="delphi" height=64px src="https://worldvectorlogo.com/logos/delphi-4.svg">
       <br>Delphi
     </td>
     <td align="center">
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
       <br>MySQL
     </td>
     <td align="center">
-      <img alt="digitalocean" height=64px src="https://worldvectorlogo.com/pt/logo/digitalocean-logo.svg">
+      <img alt="digitalocean" height=64px src="https://worldvectorlogo.com/pt/logos/digitalocean-logo.svg">
       <br>DigitalOcean
     </td>    
     <td align="center">

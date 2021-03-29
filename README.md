@@ -90,11 +90,14 @@ Here are some ideas to get you started:
       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <br>Git
     </td>
-
     <td align="center">
-      <img alt="github" height=64px src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+      <img alt="github" height=64px src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg">
       <br>GitHub
-    </td>    
+    </td>
+    <td align="center">
+      <img alt="travis-ci" height=64px src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg">
+      <br>Travis-CI
+    </td>
     <td align="center">
       <img alt="jupyter" height=64px src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
       <br>Jupyter

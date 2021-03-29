@@ -79,7 +79,7 @@ Here are some ideas to get you started:
       <br>AWS
     </td>
     <td align="center">
-      <img alt="heroku" height=64px src="https://cdn.worldvectorlogo.com/logos/heroku-logo.svg">
+      <img alt="heroku" height=64px src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg">
       <br>AWS
     </td>
   </tr>

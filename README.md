@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
       <br>Vue
     </td>
-    td align="center">
+    <td align="center">
       <img alt="delphi" height=64px src="https://worldvectorlogo.com/logo/delphi-4.svg">
       <br>Delphi
     </td>
@@ -109,6 +109,10 @@ Here are some ideas to get you started:
       <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
       <br>Flutter
     </td>
+    <td align="center">
+      <img alt="html" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <br>HTML
+    </td>    
   </tr>
 </table>
 
